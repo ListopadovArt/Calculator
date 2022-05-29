@@ -262,7 +262,7 @@
                                                         <rect key="frame" x="0.0" y="0.0" width="93.666666666666671" height="136.33333333333334"/>
                                                         <color key="backgroundColor" white="0.33333333333333331" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                                         <fontDescription key="fontDescription" type="boldSystem" pointSize="40"/>
-                                                        <state key="normal" title=",">
+                                                        <state key="normal" title=".">
                                                             <color key="titleColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                                         </state>
                                                         <connections>
