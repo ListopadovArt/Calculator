@@ -10,6 +10,9 @@ When developing the calculator, topics such as:
 
 ---
 
-![App Screenshot-1](Documentation/readme-screenshot_1.png)
-
-![App Screenshot-2](Documentation/readme-screenshot_2.png)
+<table>
+  <tr>
+    <td><img src="Documentation/readme-screenshot_1.png" width=270 height=480></td>
+    <td><img src="Documentation/readme-screenshot_2.png" width=270 height=480></td>
+  </tr>
+ </table>
