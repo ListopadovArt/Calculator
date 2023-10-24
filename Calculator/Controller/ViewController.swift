@@ -8,10 +8,8 @@ import UIKit
 
 class ViewController: UIViewController {
     
-    
     // MARK: - IBOutlets
     @IBOutlet weak var displayLabel: UILabel!
-    
     
     // MARK: - Properties
     private var calculator = CalculatorLogic()

@@ -8,7 +8,6 @@ import Foundation
 
 struct CalculatorLogic {
     
-    
     // MARK: - Properties
     private var number: Double?
     var intermediateCalculation: (firstNumber: Double, operation: String)?
